@@ -1,0 +1,4 @@
+.DS_Store
+Eigen/
+__pycache__/
+.vscode/
