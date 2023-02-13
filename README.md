@@ -8,7 +8,9 @@ optimizations of my code.
 
 ## Results
 
+These results were measured on a MacBook Pro 13" 2018 with a 2.3 GHz Quad-Core Intel Core i5 and
+16 GB of RAM.
+
 |               | Python  | Python+numba | Julia   | C/C++   |
 |---------------|---------|--------------|---------|---------|
 | bootstrapping | 8177 ms | 2845 ms      | 3034 ms | 3543 ms |
-|               |         |              |         |         |
