@@ -1,5 +1,6 @@
 .DS_Store
 Eigen/
+eigen/
 __pycache__/
 .vscode/
-bootstrapping
+bootstrapping_cpp
