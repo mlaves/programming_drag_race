@@ -31,5 +31,5 @@ julia --threads 4 bootstrapping.jl
 
 ```bash
 make
-./bootstrapp_cpp
+./bootstrapping_cpp
 ```
